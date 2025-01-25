@@ -1,2 +1,2 @@
-# M01_PR01-Arena-
+# M01_PR01-ArenaButBetter
 Arena but cool
